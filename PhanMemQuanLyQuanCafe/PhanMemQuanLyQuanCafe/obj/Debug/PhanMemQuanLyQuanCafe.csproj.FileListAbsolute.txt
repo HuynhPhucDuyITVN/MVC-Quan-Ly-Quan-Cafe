@@ -1,0 +1,13 @@
+D:\PhanMemQuanLyQuanCafe\PhanMemQuanLyQuanCafe\bin\Debug\PhanMemQuanLyQuanCafe.exe.config
+D:\PhanMemQuanLyQuanCafe\PhanMemQuanLyQuanCafe\bin\Debug\PhanMemQuanLyQuanCafe.exe
+D:\PhanMemQuanLyQuanCafe\PhanMemQuanLyQuanCafe\bin\Debug\PhanMemQuanLyQuanCafe.pdb
+D:\PhanMemQuanLyQuanCafe\PhanMemQuanLyQuanCafe\obj\Debug\PhanMemQuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\PhanMemQuanLyQuanCafe\PhanMemQuanLyQuanCafe\obj\Debug\PhanMemQuanLyQuanCafe.Properties.Resources.resources
+D:\PhanMemQuanLyQuanCafe\PhanMemQuanLyQuanCafe\obj\Debug\PhanMemQuanLyQuanCafe.csproj.GenerateResource.cache
+D:\PhanMemQuanLyQuanCafe\PhanMemQuanLyQuanCafe\obj\Debug\PhanMemQuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\PhanMemQuanLyQuanCafe\PhanMemQuanLyQuanCafe\obj\Debug\PhanMemQuanLyQuanCafe.exe
+D:\PhanMemQuanLyQuanCafe\PhanMemQuanLyQuanCafe\obj\Debug\PhanMemQuanLyQuanCafe.pdb
+D:\PhanMemQuanLyQuanCafe\PhanMemQuanLyQuanCafe\obj\Debug\PhanMemQuanLyQuanCafe.frmLogin.resources
+D:\PhanMemQuanLyQuanCafe\PhanMemQuanLyQuanCafe\obj\Debug\PhanMemQuanLyQuanCafe.frmMain.resources
+D:\PhanMemQuanLyQuanCafe\PhanMemQuanLyQuanCafe\obj\Debug\PhanMemQuanLyQuanCafe.Forms.frmBanHang.resources
+D:\PhanMemQuanLyQuanCafe\PhanMemQuanLyQuanCafe\obj\Debug\PhanMemQuanLyQuanCafe.Forms.frmHangHoa.resources
